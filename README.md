@@ -5,4 +5,6 @@ run the bellow code to get the files:
 
 **Note: you need to install git first**
 
-the code is available as ```sql-code.sql```
+The code is available as ```sql-code.sql```
+
+The database files is available as ```wl-park```
